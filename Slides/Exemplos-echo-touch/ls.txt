@@ -1,3 +1,0 @@
-echo.txt
-ls.txt
-touch.txt
