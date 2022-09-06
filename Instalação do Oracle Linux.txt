@@ -1,0 +1,19 @@
+1 - Baixar a ISO do Oracle Linux 8.6 no site oficial.
+
+2 - Selecionar a opção para adicionar uma nova máquina virtual no VirtualBox.
+
+3 - Definir o nome da máquina, versão da distro, configurar a quantidade de memória, disco e processador alocados
+para a máquina virtual.
+
+4 - Iniciar a máquina virtual e selecionar a ISO baixada no passo 1.
+
+5 - Selecionar a opção "Install Oracle 8.6.0" e aguardar.
+
+6 - Configurando a Instalação
+6.1 - Defina o idioma > Continue
+6.2 - Defina uma senha root em "Root Password"
+6.3 - Ir até Software Selection > Selecionar Minimal Install > Dona
+6.4 - Ir em Installation Destin > Selecionar o disco de instalação do sistema > Dona
+6.5 - (opcional) Há outras configurações opcionais, como ativar a internet e configurar o layout do teclado.
+
+7 - Clique em Begin Installation e aguarde.
