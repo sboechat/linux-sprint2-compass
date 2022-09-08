@@ -17,3 +17,5 @@ para a máquina virtual.
   6.5 - (opcional) Há outras configurações opcionais, como ativar a internet e configurar o layout do teclado.
 
 7 - Clique em Begin Installation e aguarde.
+
+8 - Inserir comando "dnf update" para atualizar bibliotecas do sistema após a instalação.
