@@ -14,7 +14,8 @@ para a máquina virtual.
   6.2 - Defina uma senha root em "Root Password"
   6.3 - Ir até Software Selection > Selecionar Minimal Install > Done
   6.4 - Ir em Installation Destin > Selecionar o disco de instalação do sistema > Done
-  6.5 - (opcional) Há outras configurações opcionais, como ativar a internet e configurar o layout do teclado.
+  6.5 - Aceitar os termos de licença do Oracle Linux.
+  6.6 - (opcional) Há outras configurações opcionais, como ativar a internet e configurar o layout do teclado.
 
 7 - Clique em Begin Installation e aguarde.
 
