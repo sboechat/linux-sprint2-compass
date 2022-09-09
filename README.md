@@ -1,5 +1,5 @@
 # Sprint 2 - Compass.uol
-Repositório da segunda atividade do estágio de DevSecOps da Compass.uol, contendo o slide de apresentação, manual de instalação do Oracle Linux e histórico de modificações dos arquivos.
+Repositório da segunda atividade do estágio de DevSecOps da Compass.uol, contendo o slide de apresentação, manual de instalação do Oracle Linux e histórico de modificações dos arquivos necessários para a realização da atividade.
 
 ## Passos
 <p>1.0	– Máquina virtual instalada<p>
@@ -12,4 +12,5 @@ Repositório da segunda atividade do estágio de DevSecOps da Compass.uol, conte
 <p>8.0	– Chave do host cliente configurada em authorized_keys no host servidor<p>
 
 ## Relação de Confiança
-<p>Para estabelecer a relação de confiança com ssh, deve ser gerada a chave do lado do cliente com o comando ssh-keygen. Com a chave gerada no arquivo id_rsa.pub do cliente, ela deve ser configurada no arquivo authorized_keys do servidor. <p>
+<p>Para estabelecer a relação de confiança com ssh, deve ser gerada a chave do lado do cliente com o comando ssh-keygen. Com a chave gerada no arquivo id_rsa.pub do cliente, ela deve ser configurada no arquivo authorized_keys do servidor.<p>
+<p>Após a configuração, o host cliente conseguirá acessar o servidor com o comando ssh pela porta 22 sem a necessidade de senha. A mesma relação pode ser feita de maneira inversa, com o servidor virando cliente e o cliente virando servidor, assim terá uma relação de confiança bidirecional entre os hosts.<p>
