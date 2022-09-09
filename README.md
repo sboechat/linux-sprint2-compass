@@ -16,5 +16,5 @@ Repositório da segunda atividade do estágio de DevSecOps da Compass.uol, conte
 <p>Para estabelecer a relação de confiança com ssh, deve ser gerada a chave do lado do cliente com o comando ssh-keygen. Com a chave gerada no arquivo id_rsa.pub do cliente, ela deve ser configurada no arquivo authorized_keys do servidor.<p>
 <p>Após a configuração, o host cliente conseguirá acessar o servidor com o comando ssh pela porta 22 sem a necessidade de senha. A mesma relação pode ser feita de maneira inversa, com o servidor virando cliente e o cliente virando servidor, assim terá uma relação de confiança bidirecional entre os hosts.<p>
 
-###Observação:
+### Observação:
 <p>Como é a primeira vez que faço versionamento "pra valer", eu fiz um backup local e sempre que necessário eu apaguei o arquivo do github e upei novamente. Alguns arquivos eu também não upei de imediato pois eu queria testar melhor para ter certeza se a configuração estava correta.<p>
