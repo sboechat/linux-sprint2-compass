@@ -2,7 +2,7 @@
 Repositório da segunda atividade do estágio de DevSecOps da Compass.uol, contendo o slide de apresentação, manual de instalação do Oracle Linux e histórico de modificações dos arquivos.
 
 # Passos
-1.0	– Máquina virtual instalada
+<p>1.0	– Máquina virtual instalada\n<p>
 2.0	– Layout do teclado modificada para br-abnt2.
 3.0	– Interface de rede WiFi modificada do modo NAT para o modo Bridge.
 4.0	– Configurado IP estático 168.192.10.69.
