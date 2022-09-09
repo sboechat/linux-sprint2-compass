@@ -1,8 +1,8 @@
 # Sprint 2 - Compass.uol
 Repositório da segunda atividade do estágio de DevSecOps da Compass.uol, contendo o slide de apresentação, manual de instalação do Oracle Linux e histórico de modificações dos arquivos necessários para a realização da atividade.
 
-## Passos
-<p>1.0	– Máquina virtual instalada<p>
+## Alterações na VM
+<p>1.0	– Máquina virtual instalada seguindo os "Passos para a Instalação do Oracle Linux". <p>
 <p>2.0	– Layout do teclado modificada para br-abnt2.<p>
 <p>3.0	– Interface de rede WiFi modificada do modo NAT para o modo Bridge.<p>
 <p>4.0	– Configurado IP estático 168.192.10.69.<p>
