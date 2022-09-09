@@ -12,5 +12,4 @@ Repositório da segunda atividade do estágio de DevSecOps da Compass.uol, conte
 <p>8.0	– Chave do host cliente configurada em authorized_keys no host servidor<p>
 
 ## Relação de Confiança
-<p>Para estabelecer a relação de confiança com ssh, deve ser gerada a chave do lado do cliente com o comando ssh-keygen. <p>
-<p>      9.2	– Configurar o arquivo authorized_keys no servidor a chave rsa.pub gerada no cliente.<p>
+<p>Para estabelecer a relação de confiança com ssh, deve ser gerada a chave do lado do cliente com o comando ssh-keygen. Com a chave gerada no arquivo id_rsa.pub do cliente, ela deve ser configurada no arquivo authorized_keys do servidor. <p>
