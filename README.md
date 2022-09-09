@@ -10,6 +10,6 @@ Repositório da segunda atividade do estágio de DevSecOps da Compass.uol, conte
 <p>6.0	– Instalada uma nova máquina virtual para realizar a configuração de relação de confiança.<p>
 <p>7.0	– Chave ssh RSA gerada no host cliente<p>
 <p>8.0	– Chave do host cliente configurada em authorized_keys no host servidor<p>
-<p>9.0	– Relação de Confiança<p>
+##9.0	– Relação de Confiança
 <p>      9.1	– Deve ser gerada a chave do lado do cliente para estabelecer a relação de confiança com ssh.<p>
 <p>      9.2	– Configurar o arquivo authorized_keys no servidor a chave rsa.pub gerada no cliente.<p>
